@@ -5,7 +5,7 @@
 * pagina web sobre una tienda de zapatos (tenis)
 
 ## ¿Que contiene y Como esta hecho?
-* contiene un catalogo de zapatos (tenis)
+* contiene un catalogo de zapatos (tenis), en la cual podra observar los distintos modelos de los tenias disponibles
 * Html5
 * CSS
 
