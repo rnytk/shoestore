@@ -219,6 +219,8 @@ header{
 .bottom-footer {
 	background-color:#193441;
 	height: 25px;
+	border-top: 50px;
+	
 }
 
 
@@ -226,6 +228,9 @@ header{
 	color: #7a7a7a;
 	font-size: 14px;
 	text-align: center;
+	padding-top: 20px;
+	background-color:#193441;
+
 }
 
 hr {
